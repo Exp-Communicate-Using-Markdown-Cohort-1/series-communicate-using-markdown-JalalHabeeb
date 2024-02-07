@@ -5,3 +5,6 @@ do{
 beBetterEveryday
 } while (true)
 ```
+- [x] Turn ob GitHub paages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world 
